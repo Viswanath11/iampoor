@@ -2,9 +2,9 @@
 //  AppDelegate.swift
 //  I Am Poor
 //
-//  Created by Angela Yu on 24/08/2016.
-//
-//
+//  Created by Viswanath Subramani S S
+//	Assets provided by London App Brewery
+//  Copyright © 2017 ViswanathSubramaniSS. All rights reserved.
 
 import UIKit
 
